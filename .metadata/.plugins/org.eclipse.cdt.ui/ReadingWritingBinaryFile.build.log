@@ -1,7 +1,0 @@
-21:51:45 **** Incremental Build of configuration Debug for project ReadingWritingBinaryFile ****
-Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ReadingWritingBinaryFile.o" "..\\src\\ReadingWritingBinaryFile.cpp" 
-g++ -o ReadingWritingBinaryFile.exe "src\\ReadingWritingBinaryFile.o" 
-
-21:51:47 Build Finished (took 2s.352ms)
-
