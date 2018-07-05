@@ -1,0 +1,21 @@
+/*
+ * ring.cpp
+ *
+ *  Created on: May 19, 2018
+ *      Author: Rajveer
+ */
+
+#include "ring.h"
+
+namespace ds {
+
+ring::ring() {
+	// TODO Auto-generated constructor stub
+
+}
+
+ring::~ring() {
+	// TODO Auto-generated destructor stub
+}
+
+} /* namespace ds */

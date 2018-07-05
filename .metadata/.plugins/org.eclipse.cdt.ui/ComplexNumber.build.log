@@ -1,0 +1,8 @@
+19:49:46 **** Incremental Build of configuration Debug for project ComplexNumber ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex.o" "..\\src\\Complex.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ComplexNumber.o" "..\\src\\ComplexNumber.cpp" 
+g++ -o ComplexNumber.exe "src\\Complex.o" "src\\ComplexNumber.o" 
+
+19:49:50 Build Finished (took 4s.449ms)
+

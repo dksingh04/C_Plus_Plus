@@ -1,0 +1,26 @@
+/*
+ * ring.h
+ *
+ *  Created on: May 19, 2018
+ *      Author: Rajveer
+ */
+
+#ifndef RING_H_
+#define RING_H_
+
+#include <iostream>
+using namespace std
+
+class ring {
+public:
+	class iterator{
+	public:
+		void print(){
+			cout <<"Hello from Iterator!!"<<endl;
+		}
+	};
+};
+
+
+
+#endif /* RING_H_ */

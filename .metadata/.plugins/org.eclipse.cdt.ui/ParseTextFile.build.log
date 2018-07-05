@@ -1,0 +1,7 @@
+19:21:38 **** Incremental Build of configuration Debug for project ParseTextFile ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ParseTextFile.o" "..\\src\\ParseTextFile.cpp" 
+g++ -o ParseTextFile.exe "src\\ParseTextFile.o" 
+
+19:21:41 Build Finished (took 3s.253ms)
+

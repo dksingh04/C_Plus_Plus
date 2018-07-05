@@ -1,0 +1,8 @@
+23:10:52 **** Incremental Build of configuration Debug for project SDLBasic ****
+Info: Internal Builder is used for build
+g++ "-LC:\\software\\SDL2-devel-2.0.7-mingw\\SDL2-2.0.7\\i686-w64-mingw32\\lib" -o SDLBasic.exe "src\\SDLBasic.o" -lSDL2 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+23:10:52 Build Finished (took 557ms)
+

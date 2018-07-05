@@ -1,0 +1,22 @@
+//============================================================================
+// Name        : DectypeTypeid.cpp
+// Author      : Deepak Singh
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include <typeinfo>
+using namespace std;
+
+int main() {
+
+	string value;
+	cout<<typeid(value).name()<<endl;
+	decltype(value) name = "Deepak";
+	cout << name << endl;
+
+	auto intValue = 10;
+	return 0;
+}
